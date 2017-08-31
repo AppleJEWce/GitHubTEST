@@ -10,7 +10,7 @@ namespace GitHubTEST
     {
         static void Main(string[] args)
         {
-
+            int yolo = 1;
         }
     }
 }
